@@ -3,7 +3,6 @@
 # Which IDE to Use When?
 
 1. Based on Your Level of Knowledge
-
 Beginner - IDLE, Thonny would be the perfect choice for first-time programmers who are just getting into Python.
 Intermediate - For intermediate level users PyCharm, VS Code, Atom, Sublime Text 3 are good options.
 
